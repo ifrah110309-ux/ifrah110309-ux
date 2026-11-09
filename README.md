@@ -41,4 +41,8 @@ Check out my repositories to explore my C++ and Python practice programs.
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ifrah110309-ux&theme=tokyonight)
+## 👀 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=ifrah110309-ux&color=blueviolet&style=flat)
+
 

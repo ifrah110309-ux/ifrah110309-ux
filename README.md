@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ifrah110309-ux/ifrah110309-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a First-Year Computer Science and Engineering Student at Chennai Institute of Technology (CIT).
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎓 Pursuing BE Computer Science and Engineering.
+- 💻 Interested in programming and problem-solving.
+- 🌱 Currently learning C++ and Python.
+- 🚀 Exploring Data Structures, Algorithms and Artificial Intelligence.
+- 🎯 Focused on improving my coding skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Languages:** C++, Python
+- **Tools:** Git, GitHub, VS Code
+- **Interests:** Artificial Intelligence, Problem Solving, Software Development
+
+## 📚 Certifications
+- Cisco – C++ Essentials 1
+- Cisco – C++ Essentials 2
+
+## 🏆 Achievements
+- Second Place – District-Level Chess Competition
+- NMMS Scholarship Examination
+- Tamil Thiranarivu Thervu Scholarship Examination
+
+## 📂 My Projects
+Check out my repositories to explore my C++ and Python practice programs.
+
+## 📈 Current Goals
+- Strengthen my programming fundamentals.
+- Practice problem-solving on LeetCode.
+- Build practical projects.
+- Explore AI and software development.
+
+---
+⭐ *Learning, building, and growing one step at a time!* 

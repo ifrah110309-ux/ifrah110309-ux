@@ -38,4 +38,7 @@ Check out my repositories to explore my C++ and Python practice programs.
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifrah110309-ux&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ifrah110309-ux&theme=tokyonight)
 

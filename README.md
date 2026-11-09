@@ -34,3 +34,4 @@ Check out my repositories to explore my C++ and Python practice programs.
 
 ---
 ⭐ *Learning, building, and growing one step at a time!* 
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifrah110309-ux&theme=tokyonight)
